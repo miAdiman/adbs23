@@ -1,0 +1,8 @@
+//
+// Created by adi on 27.11.23.
+//
+
+#ifndef PROJECT_LINEAR_HASHTABLE_H
+#define PROJECT_LINEAR_HASHTABLE_H
+
+#endif //PROJECT_LINEAR_HASHTABLE_H
